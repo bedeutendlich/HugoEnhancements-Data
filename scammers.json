@@ -1,5 +1,10 @@
-
 {
   "version": 1,
-  "players": []
+  "players": [
+    {
+      "uuid": "39ca09d4-96b2-4ee8-857d-d882c4a28f0d",
+      "name": "Bedeutendlich",
+      "reports": 1
+    }
+  ]
 }
