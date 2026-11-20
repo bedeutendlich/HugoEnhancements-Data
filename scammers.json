@@ -11,11 +11,6 @@
       "uuid": "5de5d99c-2a74-4d9b-b004-b39893567ab6",
       "name": "GlobeMission",
       "reports": 2
-    },
-    {
-      "uuid": "UUID-DES-DRITTEN-SPIELERS",
-      "name": "SpielerDrei",
-      "reports": 3
     }
   ]
 }
