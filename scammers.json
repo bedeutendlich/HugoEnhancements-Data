@@ -3,13 +3,13 @@
   "version": 1,
   "players": [
     {
-      "uuid": "5af88ec7-dc93-48d9-b632-24b09f2d3006",
-      "name": "HaseMitDerNase",
+      "uuid": "UUIDGoesHere",
+      "name": "NameGoesHere",
       "reports": 1
     },
     {
-      "uuid": "5de5d99c-2a74-4d9b-b004-b39893567ab6",
-      "name": "GlobeMission",
+      "uuid": "UUIDGoesHere",
+      "name": "NameGoesHere",
       "reports": 3
     }
   ]
